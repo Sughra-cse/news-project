@@ -11,7 +11,7 @@ const NewsListItem =()=>{
            <div className="textWrapper">
             <p className="newsTitle">"Iranian officials say 17 alleged U.S. spies captured, some sentenced to death"
 </p>
-            <p className="newsDiscription">"Iranian intelligence officials say 17 people have been captured who were allegedly spies working for the U.S. Central Intelligence agency."</p>
+            <p className="newsDiscription">"Iranian intelligence officials say 17 people have been captured who were allegedly spies working for the U.S. Central Intelligence agency."</p><br></br>
             <p className="newsAuthor">"Ali Arouzi, Linda Givetash"</p>
             </div>
             </div>
