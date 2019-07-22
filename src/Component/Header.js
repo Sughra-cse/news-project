@@ -1,10 +1,10 @@
 import React from 'react';
-import "./Stylecss/headerStyle.css"
+import "./Stylecss/headerStyle.css";
 
 const Header =()=>{
     return(
         <div className="header">
-            <p className="paragraph">Header</p>
+            <p className="paragraph">News Feed</p>
         </div>
     );
 };
